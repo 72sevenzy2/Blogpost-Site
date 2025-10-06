@@ -14,10 +14,7 @@ export const Blogpost = (): JSX.Element => {
 
     return (
         <div>
-            <div className='nav1_wrapper'>
-                <h1 className='nav1_header'>Blog Template</h1>
-                <button className='adminButton'>Admin Login</button>
-            </div>
+         
 
             <div className='headers_container'>
                 <h1 className='main_header'>
