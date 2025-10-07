@@ -1,6 +1,10 @@
 // home.tsx
-const Home = () => {
-  return <div>Home Page</div>;
-};
+import React, { type JSX } from 'react'
+
+ const Home = (): JSX.Element => {
+  return (
+    <div>home</div>
+  )
+}
 
 export default Home;
